@@ -23,6 +23,7 @@ if (isset($_SESSION['id']) && isset($_SESSION['user_name'])) {
       <div class="section-title">
         <h1>Hello <?php echo $_SESSION['name']; ?></h1>
         <h2>M3/1 FAMILY 2564</h2>
+        <div class="credit"><a href="kru.php">คู่มือครู M.4</a>
       </div>
     </div>
     <div class="row">
@@ -226,7 +227,7 @@ if (isset($_SESSION['id']) && isset($_SESSION['user_name'])) {
         <h3>ปัญฑิตา อินต๊ะ <span>No.26</span></h3>
         <div class="social-links">
           <a href="https://www.facebook.com/panthita.inta"><i class="fa fa-facebook"></i></a>
-          <a href="https://instagram.com/_nxiec"><i class="fa fa-instagram"></i></a>
+          <a href="https://instagram.com/icevtxr"><i class="fa fa-instagram"></i></a>
           <a href="https://discord.gg/JrAbfCCS4x"><i class="fa fa-flickr"></i></a>
         </div>
       </div>
