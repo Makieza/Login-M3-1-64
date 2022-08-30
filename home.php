@@ -156,7 +156,7 @@ if (isset($_SESSION['id']) && isset($_SESSION['user_name'])) {
         <h3>อนุสรณ์ อุชชิน <span>No.17</span></h3>
         <div class="social-links">
           <a href="https://www.facebook.com/profile.php?id=100075530418722"><i class="fa fa-facebook"></i></a>
-          <a href="https://instagram.com/utchinanusorn25"><i class="fa fa-instagram"></i></a>
+          <a href="https://instagram.com/tar_anusorn06"><i class="fa fa-instagram"></i></a>
         </div>
       </div>
       <div class="team-item">
