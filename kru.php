@@ -225,7 +225,7 @@ if (isset($_SESSION['id']) && isset($_SESSION['user_name'])) {
 			<div class="col-md-4">
 				<div class="card-box text-center">
 					<div class="user-pic">
-						<img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/280313414_542870660763811_7156942828724799215_n.png?stp=dst-png_p320x320&_nc_cat=109&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeEfMou-JJ6No7hY_yCQgk6fCx2aQxZ1iCoLHZpDFnWIKjmlvfw-giY1WHyQoPF7KG2c3TQhpQRWLTVaXaPodOAf&_nc_ohc=x1bYplRnU88AX9td3sH&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJhQ7XkT7cayRrU4ZyyLto-o8Fy67FZGfXFLBszPxITMQ&oe=62AEB5D1" class="img-fluid" alt="history">
+						<img src="https://online.pubhtml5.com/kxmk/amyv/files/large/1.jpg?1575530471" class="img-fluid" alt="history">
 					</div>
 					<h4>คู่มือครูประวัติศาสตร์</h4>
 					<h6>ม.4</h6>
