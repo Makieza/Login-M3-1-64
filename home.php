@@ -23,7 +23,7 @@ if (isset($_SESSION['id']) && isset($_SESSION['user_name'])) {
       <div class="section-title">
         <h1>Hello <?php echo $_SESSION['name']; ?></h1>
         <h2>M3/1 FAMILY 2564</h2>
-        <div class="credit"><a href="kru.php">คู่มือครู M.4</a>
+        <div class="credit"><a href="kru.php">คู่มือครู</a>
       </div>
     </div>
     <div class="row">
