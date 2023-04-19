@@ -20,7 +20,7 @@ if (isset($_SESSION['id']) && isset($_SESSION['user_name'])) {
 <div class="container">
 		<div class="row">
 			<div class="col-sm-6 offset-sm-3 mt-4 mb-4">
-				<h2 class="text-center">คู่มือครู M.4</h2>
+				<h2 class="text-center">คู่มือครู M.4-M.5</h2>
 				<p class="text-center">เราได้ทำการรวบรวมคู่มือครูให้แล้วเพื่อช่วยให้เพื่อนๆเรียนได้ง่ายขึ้นไม่ปวดหัว เลือกรายวิชาแล้วไปดูกันเลย!</p>
 			</div>
 		</div>
@@ -233,6 +233,216 @@ if (isset($_SESSION['id']) && isset($_SESSION['user_name'])) {
 					<p>คำเตือน!!อย่าเผยแพร่ข้อมูลให้กับคนที่คุณไม่สนิทหรืออาจารย์ผู้สอนรู้เป็นอันขาด</p>
 					<hr>
 					<p><a href="https://drive.google.com/file/d/1t-Y7JHu9w2YSL8BzpVBzGgQ2ruT6NjSO/view?usp=drivesdk" class="btn btn-primary">คลิก</a></p>
+				</div>
+			</div>
+
+			<div class="col-md-4">
+				<div class="card-box text-center">
+					<div class="user-pic">
+						<img src="https://www.scimath.org/images/stories/flexicontent/item_10326_field_24/m_thumbnail_------------------_------.---5_------65.jpg" class="img-fluid" alt="history">
+					</div>
+					<h4>คู่มือครูคณิตศาสตร์พื้นฐาน</h4>
+					<h6>ม.5</h6>
+					<hr>
+					<p>คำเตือน!!อย่าเผยแพร่ข้อมูลให้กับคนที่คุณไม่สนิทหรืออาจารย์ผู้สอนรู้เป็นอันขาด</p>
+					<hr>
+					<p><a href="https://drive.google.com/file/d/1tTXiY6VoTezpSPxaj9BJj4dzsdPHmdas/view?usp=share_link" class="btn btn-primary">คลิก</a></p>
+				</div>
+			</div>
+
+			<div class="col-md-4">
+				<div class="card-box text-center">
+					<div class="user-pic">
+						<img src="https://www.scimath.org/images/stories/flexicontent/item_10327_field_24/m_thumbnail_------------------_------.---5.1_------65.jpg" class="img-fluid" alt="Math2">
+					</div>
+					<h4>คู่มือครูคณิตศาสตร์เพิ่มเติมเล่ม1</h4>
+					<h6>ม.5</h6>
+					<hr>
+					<p>คำเตือน!!อย่าเผยแพร่ข้อมูลให้กับคนที่คุณไม่สนิทหรืออาจารย์ผู้สอนรู้เป็นอันขาด</p>
+					<hr>
+					<p><a href="https://drive.google.com/file/d/1Gn8u99bwq2-m4ilGYEJz3uAUuS3zpsUn/view?usp=share_link" class="btn btn-primary">คลิก</a></p>
+				</div>
+			</div>
+
+			<div class="col-md-4">
+				<div class="card-box text-center">
+					<div class="user-pic">
+						<img src="https://www.scimath.org/images/stories/flexicontent/item_10898_field_24/m_thumbnail_------------------_------.---5.2_------65.jpg" class="img-fluid" alt="Math3">
+					</div>
+					<h4>คู่มือครูคณิตศาสตร์เพิ่มเติมเล่ม2</h4>
+					<h6>ม.5</h6>
+					<hr>
+					<p>คำเตือน!!อย่าเผยแพร่ข้อมูลให้กับคนที่คุณไม่สนิทหรืออาจารย์ผู้สอนรู้เป็นอันขาด</p>
+					<hr>
+					<p><a href="https://drive.google.com/file/d/1SrP9Lz79lielwfUeIX7Fvl-wGRIzdNM-/view?usp=share_link" class="btn btn-primary">คลิก</a></p>
+				</div>
+			</div>
+
+			<div class="col-md-4">
+				<div class="card-box text-center">
+					<div class="user-pic">
+						<img src="https://www.scimath.org/images/stories/flexicontent/item_10297_field_24/m_chem-teacher-guide-basic.jpg" class="img-fluid" alt="lifescience">
+					</div>
+					<h4>คู่มือครูวิทยาศาสตร์กายภาพเล่ม1</h4>
+					<h6>ม.5</h6>
+					<hr>
+					<p>คำเตือน!!อย่าเผยแพร่ข้อมูลให้กับคนที่คุณไม่สนิทหรืออาจารย์ผู้สอนรู้เป็นอันขาด</p>
+					<hr>
+					<p><a href="https://drive.google.com/file/d/1-_RPGOIywrvt3WKPQQc0knrOZ4Ieojxr/view?usp=share_link" class="btn btn-primary">คลิก</a></p>
+				</div>
+			</div>
+
+			<div class="col-md-4">
+				<div class="card-box text-center">
+					<div class="user-pic">
+						<img src="https://www.scimath.org/images/stories/flexicontent/item_10333_field_24/m_thumbnaill_tg_physicalsci_book2.jpg" class="img-fluid" alt="lifescience">
+					</div>
+					<h4>คู่มือครูวิทยาศาสตร์กายภาพเล่ม2</h4>
+					<h6>ม.5</h6>
+					<hr>
+					<p>คำเตือน!!อย่าเผยแพร่ข้อมูลให้กับคนที่คุณไม่สนิทหรืออาจารย์ผู้สอนรู้เป็นอันขาด</p>
+					<hr>
+					<p><a href="https://drive.google.com/file/d/11ZmMg7_5rDYDE3J1cuEGZ6ZHd-A_GBfo/view?usp=share_link" class="btn btn-primary">คลิก</a></p>
+				</div>
+			</div>
+
+			<div class="col-md-4">
+				<div class="card-box text-center">
+					<div class="user-pic">
+						<img src="https://www.scimath.org/images/stories/flexicontent/item_10095_field_24/m_2019-04-22_09.04.19.jpg" class="img-fluid" alt="computationalscience">
+					</div>
+					<h4>คู่มือครูวิทยาการคำนวณ</h4>
+					<h6>ม.5</h6>
+					<hr>
+					<p>คำเตือน!!อย่าเผยแพร่ข้อมูลให้กับคนที่คุณไม่สนิทหรืออาจารย์ผู้สอนรู้เป็นอันขาด</p>
+					<hr>
+					<p><a href="https://drive.google.com/file/d/1hoDq-iVdqpn01DDF1--skVHHY5NET9aH/view?usp=share_link" class="btn btn-primary">คลิก</a></p>
+				</div>
+			</div>
+
+			<div class="col-md-4">
+				<div class="card-box text-center">
+					<div class="user-pic">
+						<img src="https://www.scimath.org/images/stories/flexicontent/item_10091_field_24/m_2019-04-17_08.01.46.png" class="img-fluid" alt="technologydesign">
+					</div>
+					<h4>คู่มือครูออกแบบเทคโนโลยี</h4>
+					<h6>ม.5</h6>
+					<hr>
+					<p>คำเตือน!!อย่าเผยแพร่ข้อมูลให้กับคนที่คุณไม่สนิทหรืออาจารย์ผู้สอนรู้เป็นอันขาด</p>
+					<hr>
+					<p><a href="https://drive.google.com/file/d/1ihDRA3G5TQQQHFmjHNaJ3wefsS5RRRjN/view?usp=share_link" class="btn btn-primary">คลิก</a></p>
+				</div>
+			</div>
+
+			<div class="col-md-4">
+				<div class="card-box text-center">
+					<div class="user-pic">
+						<img src="https://www.scimath.org/images/stories/flexicontent/item_10331_field_24/m_thumbnail_tgphys_book_3.jpg" class="img-fluid" alt="physics">
+					</div>
+					<h4>คู่มือครูฟิสิกส์เล่ม3</h4>
+					<h6>ม.5</h6>
+					<hr>
+					<p>คำเตือน!!อย่าเผยแพร่ข้อมูลให้กับคนที่คุณไม่สนิทหรืออาจารย์ผู้สอนรู้เป็นอันขาด</p>
+					<hr>
+					<p><a href="https://drive.google.com/file/d/1W0an4Iurg0LHMAeRu-Xki3JKlnaIbZtg/view?usp=share_link" class="btn btn-primary">คลิก</a></p>
+				</div>
+			</div>
+
+			<div class="col-md-4">
+				<div class="card-box text-center">
+					<div class="user-pic">
+						<img src="https://www.scimath.org/images/stories/flexicontent/item_10890_field_24/m_thumbnail_tgphys_book_4.jpg" class="img-fluid" alt="physics">
+					</div>
+					<h4>คู่มือครูฟิสิกส์เล่ม4</h4>
+					<h6>ม.5</h6>
+					<hr>
+					<p>คำเตือน!!อย่าเผยแพร่ข้อมูลให้กับคนที่คุณไม่สนิทหรืออาจารย์ผู้สอนรู้เป็นอันขาด</p>
+					<hr>
+					<p><a href="https://drive.google.com/file/d/15TuZNsplJ3tuCRTL3zR3EyVd3XWER42a/view?usp=share_link" class="btn btn-primary">คลิก</a></p>
+				</div>
+			</div>
+
+			<div class="col-md-4">
+				<div class="card-box text-center">
+					<div class="user-pic">
+						<img src="https://www.scimath.org/images/stories/flexicontent/item_10298_field_24/m_chem-teacher-guide3.jpg" class="img-fluid" alt="chemical">
+					</div>
+					<h4>คู่มือครูเคมีเล่ม3</h4>
+					<h6>ม.5</h6>
+					<hr>
+					<p>คำเตือน!!อย่าเผยแพร่ข้อมูลให้กับคนที่คุณไม่สนิทหรืออาจารย์ผู้สอนรู้เป็นอันขาด</p>
+					<hr>
+					<p><a href="https://drive.google.com/file/d/1aaB2DPZNN1n0wuSrBOCPvU5MqCF-VKwB/view?usp=share_link" class="btn btn-primary">คลิก</a></p>
+				</div>
+			</div>
+
+			<div class="col-md-4">
+				<div class="card-box text-center">
+					<div class="user-pic">
+						<img src="https://www.scimath.org/images/stories/flexicontent/item_10299_field_24/m_chem-teacher-guide4.jpg" class="img-fluid" alt="chemical">
+					</div>
+					<h4>คู่มือครูเคมีเล่ม4</h4>
+					<h6>ม.5</h6>
+					<hr>
+					<p>คำเตือน!!อย่าเผยแพร่ข้อมูลให้กับคนที่คุณไม่สนิทหรืออาจารย์ผู้สอนรู้เป็นอันขาด</p>
+					<hr>
+					<p><a href="https://drive.google.com/file/d/1amzPjVxpp8DOfeOnLin0RgV78W3I8Tgv/view?usp=share_link" class="btn btn-primary">คลิก</a></p>
+				</div>
+			</div>
+
+			<div class="col-md-4">
+				<div class="card-box text-center">
+					<div class="user-pic">
+						<img src="https://www.scimath.org/images/stories/flexicontent/item_10300_field_24/m_10300new.jpg" class="img-fluid" alt="biology">
+					</div>
+					<h4>คู่มือครูชีววิทยาเล่ม3</h4>
+					<h6>ม.5</h6>
+					<hr>
+					<p>คำเตือน!!อย่าเผยแพร่ข้อมูลให้กับคนที่คุณไม่สนิทหรืออาจารย์ผู้สอนรู้เป็นอันขาด</p>
+					<hr>
+					<p><a href="https://drive.google.com/file/d/1b9pjn86OmMjfhfizhZbovV907zB80iKY/view?usp=share_link" class="btn btn-primary">คลิก</a></p>
+				</div>
+			</div>
+
+			<div class="col-md-4">
+				<div class="card-box text-center">
+					<div class="user-pic">
+						<img src="https://www.scimath.org/images/stories/flexicontent/item_10301_field_24/m_10301new.jpg" class="img-fluid" alt="biology">
+					</div>
+					<h4>คู่มือครูชีววิทยาเล่ม4</h4>
+					<h6>ม.5</h6>
+					<hr>
+					<p>คำเตือน!!อย่าเผยแพร่ข้อมูลให้กับคนที่คุณไม่สนิทหรืออาจารย์ผู้สอนรู้เป็นอันขาด</p>
+					<hr>
+					<p><a href="https://drive.google.com/file/d/1b_DLDBQ390HmKfTR0AHoYJpeopdGZGaT/view?usp=share_link" class="btn btn-primary">คลิก</a></p>
+				</div>
+			</div>
+
+			<div class="col-md-4">
+				<div class="card-box text-center">
+					<div class="user-pic">
+						<img src="https://www.scimath.org/images/stories/flexicontent/item_10371_field_24/m_2019-05-23_02.58.17.jpg" class="img-fluid" alt="astronomy">
+					</div>
+					<h4>คู่มือครูดาราศาสตร์เล่ม3</h4>
+					<h6>ม.5</h6>
+					<hr>
+					<p>คำเตือน!!อย่าเผยแพร่ข้อมูลให้กับคนที่คุณไม่สนิทหรืออาจารย์ผู้สอนรู้เป็นอันขาด</p>
+					<hr>
+					<p><a href="https://drive.google.com/file/d/1Mu8NPyDZYpSNJ5US675QA7eH-35h5ZBi/view?usp=share_link" class="btn btn-primary">คลิก</a></p>
+				</div>
+			</div>
+
+			<div class="col-md-4">
+				<div class="card-box text-center">
+					<div class="user-pic">
+						<img src="https://www.scimath.org/images/stories/flexicontent/item_10395_field_24/m_thumbnail_tg_es_4.jpg" class="img-fluid" alt="astronomy">
+					</div>
+					<h4>คู่มือครูดาราศาสตร์เล่ม4</h4>
+					<h6>ม.5</h6>
+					<hr>
+					<p>คำเตือน!!อย่าเผยแพร่ข้อมูลให้กับคนที่คุณไม่สนิทหรืออาจารย์ผู้สอนรู้เป็นอันขาด</p>
+					<hr>
+					<p><a href="https://drive.google.com/file/d/1IY6sAuBQk4yDvY7iyG5Rh8qmxbc08Vyd/view?usp=share_link" class="btn btn-primary">คลิก</a></p>
 				</div>
 			</div>
 		</div>
