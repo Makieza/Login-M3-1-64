@@ -331,7 +331,7 @@ if (isset($_SESSION['id']) && isset($_SESSION['user_name'])) {
   </div>
   <div class="Logout"> <a href="logout.php">Logout</a></div>
  </section>
-<div class="credit">Made with <span style="color:rgb(7, 7, 7);font-size:20px;">❤</span> by <a  href="https://discord.com/invite/Ybmen4NYyX">M4/6 FAMILY</a></div>
+<div class="credit">Made with <span style="color:rgb(7, 7, 7);font-size:20px;">❤</span> by <a  href="https://discord.com/invite/Ybmen4NYyX">M5/7 FAMILY</a></div>
 </body>
 </html>
 
